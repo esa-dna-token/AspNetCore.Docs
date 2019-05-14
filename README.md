@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Protection396/65389ca1-ebfc-4e31-851f-fc2baba7712f/56e5793f-ea74-48c5-8034-e130d157f90b/_apis/work/boardbadge/d5e552f3-af4a-47a4-bf08-ee17c8805fe2)](https://dev.azure.com/Protection396/65389ca1-ebfc-4e31-851f-fc2baba7712f/_boards/board/t/56e5793f-ea74-48c5-8034-e130d157f90b/Microsoft.RequirementCategory)
 # ASP.NET Core Docs
 
 This repository contains the conceptual ASP.NET Core documentation hosted at [docs.microsoft.com/aspnet](https://docs.microsoft.com/aspnet). See the [Contributing Guide](CONTRIBUTING.md) and the [issues list](https://github.com/aspnet/Docs/issues) if you would like to help out.
